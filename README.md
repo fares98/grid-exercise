@@ -1,29 +1,22 @@
 **Authors**: @fares98
-
 **Maintainer**: @MohammedYehia
 
-# CSS Grid Workshop
+# CSS Grid Exercise:
+In this exercise, you have a folder that contains an HTML file, and CSS file, write your code to create a responsive page like the attached images. 
 
-## Intro and why sould I use CSS Grid:
-
-in progress
-
-## CSS Grid VS Flexbox:
-
-in progress
-
+* You will deal with HTML file as it is written, don't change anything inside it.
+<!-- 
 ## Challenge:
-
 https://cssgridgarden.com/
-
-## Exercise:
+ -->
 
 **Desktop screen:**
 
-![](https://i.imgur.com/KPEYfxQ.png)
-
----
+![](https://i.imgur.com/vO2Pxbs.png)
+***
 
 **Mobile Screen:**
 
 ![](https://i.imgur.com/jFZTt2C.png)
+
+
